@@ -5,5 +5,5 @@ class Dog
   
   @@all = [] 
   
-  
+  def initi
 end
