@@ -11,4 +11,5 @@ class Dog
     @owner = owner 
     @@all << self 
   end 
+  
 end
