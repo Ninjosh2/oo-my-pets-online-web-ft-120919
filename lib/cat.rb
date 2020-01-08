@@ -10,5 +10,7 @@ class Cat
     @mood = "nervous" 
     @owner = owner 
     @@all << self 
-  end 
+  end
+  
+  def 
 end
