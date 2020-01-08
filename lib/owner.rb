@@ -54,7 +54,7 @@ class Owner
     pets = self.dogs + self.cats 
     
     pets.each do |pet| 
-      pets 
+      pet.mood 
   
   
   
