@@ -10,4 +10,5 @@ class Dog
     @mood = "nervous" 
     @owner = owner 
     @@all << self 
+  end 
 end
